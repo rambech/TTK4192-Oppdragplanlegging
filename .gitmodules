@@ -1,0 +1,6 @@
+[submodule "TTK4192-assignment-2"]
+	path = TTK4192-assignment-2
+	url = https://github.com/rambech/TTK4192-assignment-2.git
+[submodule "TTK4192-assignment-3"]
+	path = TTK4192-assignment-3
+	url = https://github.com/rambech/TTK4192-assignment-3.git
